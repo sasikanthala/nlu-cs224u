@@ -1,0 +1,81 @@
+\begin{thebibliography}{9}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Gao et~al.(2022)Gao, Dai, Pasupat, Chen, Chaganty, Fan, Zhao, Lao,
+  Lee, Juan, and Guu}]{https://doi.org/10.48550/arxiv.2210.08726}
+Luyu Gao, Zhuyun Dai, Panupong Pasupat, Anthony Chen, Arun~Tejasvi Chaganty,
+  Yicheng Fan, Vincent~Y. Zhao, Ni~Lao, Hongrae Lee, Da-Cheng Juan, and Kelvin
+  Guu. 2022.
+\newblock \href {https://doi.org/10.48550/ARXIV.2210.08726} {Rarr: Researching
+  and revising what language models say, using language models}.
+
+\bibitem[{Khattab et~al.(2022)Khattab, Santhanam, Li, Hall, Liang, Potts, and
+  Zaharia}]{https://doi.org/10.48550/arxiv.2212.14024}
+Omar Khattab, Keshav Santhanam, Xiang~Lisa Li, David Hall, Percy Liang,
+  Christopher Potts, and Matei Zaharia. 2022.
+\newblock \href {https://doi.org/10.48550/ARXIV.2212.14024}
+  {Demonstrate-search-predict: Composing retrieval and language models for
+  knowledge-intensive nlp}.
+
+\bibitem[{Kitaev and Klein(2018)}]{kitaev-klein-2018-constituency}
+Nikita Kitaev and Dan Klein. 2018.
+\newblock \href {https://doi.org/10.18653/v1/P18-1249} {Constituency parsing
+  with a self-attentive encoder}.
+\newblock In \emph{Proceedings of the 56th Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pages 2676--2686,
+  Melbourne, Australia. Association for Computational Linguistics.
+
+\bibitem[{Liu et~al.(2022)Liu, Shen, Zhang, Dolan, Carin, and
+  Chen}]{liu-etal-2022-makes}
+Jiachang Liu, Dinghan Shen, Yizhe Zhang, Bill Dolan, Lawrence Carin, and Weizhu
+  Chen. 2022.
+\newblock \href {https://doi.org/10.18653/v1/2022.deelio-1.10} {What makes good
+  in-context examples for {GPT}-3?}
+\newblock In \emph{Proceedings of Deep Learning Inside Out (DeeLIO 2022): The
+  3rd Workshop on Knowledge Extraction and Integration for Deep Learning
+  Architectures}, pages 100--114, Dublin, Ireland and Online. Association for
+  Computational Linguistics.
+
+\bibitem[{Qi et~al.(2021)Qi, Lee, Sido, and Manning}]{qi-etal-2021-answering}
+Peng Qi, Haejun Lee, Tg~Sido, and Christopher Manning. 2021.
+\newblock \href {https://doi.org/10.18653/v1/2021.emnlp-main.292} {Answering
+  open-domain questions of varying reasoning steps from text}.
+\newblock In \emph{Proceedings of the 2021 Conference on Empirical Methods in
+  Natural Language Processing}, pages 3599--3614, Online and Punta Cana,
+  Dominican Republic. Association for Computational Linguistics.
+
+\bibitem[{Rajpurkar et~al.(2016)Rajpurkar, Zhang, Lopyrev, and
+  Liang}]{rajpurkar-etal-2016-squad}
+Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. 2016.
+\newblock \href {https://doi.org/10.18653/v1/D16-1264} {{SQ}u{AD}: 100,000+
+  questions for machine comprehension of text}.
+\newblock In \emph{Proceedings of the 2016 Conference on Empirical Methods in
+  Natural Language Processing}, pages 2383--2392, Austin, Texas. Association
+  for Computational Linguistics.
+
+\bibitem[{Wolfson et~al.(2020)Wolfson, Geva, Gupta, Gardner, Goldberg, Deutch,
+  and Berant}]{wolfson-etal-2020-break}
+Tomer Wolfson, Mor Geva, Ankit Gupta, Matt Gardner, Yoav Goldberg, Daniel
+  Deutch, and Jonathan Berant. 2020.
+\newblock \href {https://doi.org/10.1162/tacl_a_00309} {Break it down: A
+  question understanding benchmark}.
+\newblock \emph{Transactions of the Association for Computational Linguistics},
+  8:183--198.
+
+\bibitem[{Yang et~al.(2018)Yang, Qi, Zhang, Bengio, Cohen, Salakhutdinov, and
+  Manning}]{yang-etal-2018-hotpotqa}
+Zhilin Yang, Peng Qi, Saizheng Zhang, Yoshua Bengio, William Cohen, Ruslan
+  Salakhutdinov, and Christopher~D. Manning. 2018.
+\newblock \href {https://doi.org/10.18653/v1/D18-1259} {{H}otpot{QA}: A dataset
+  for diverse, explainable multi-hop question answering}.
+\newblock In \emph{Proceedings of the 2018 Conference on Empirical Methods in
+  Natural Language Processing}, pages 2369--2380, Brussels, Belgium.
+  Association for Computational Linguistics.
+
+\bibitem[{Zhang and Shasha()}]{zhang_simple_1989}
+Kaizhong Zhang and Dennis Shasha.
+\newblock \href {https://doi.org/10.1137/0218082} {Simple fast algorithms for
+  the editing distance between trees and related problems}.
+\newblock 18(6):1245--1262.
+
+\end{thebibliography}
